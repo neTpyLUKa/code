@@ -1,5 +1,8 @@
 # code
-Segmentation: segments picture by color
+
+Segmentation:
+segments picture by color
+
 Matrix:
 matrix class with template typename, different matrix operations and print function.
 
